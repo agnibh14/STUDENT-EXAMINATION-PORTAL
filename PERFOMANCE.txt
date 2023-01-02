@@ -1,0 +1,5 @@
+Student ID          Name                Roll No.          Marks          Grade
+CSE2201             TUSTA SAHA         52                 65             D
+CSE2101             SHESADRI MUKERJEE         55                 78             C
+ECE2201             MRIDUL PATRA         47                 34             G
+ECE2202             AGNIBH CHANDA         26                 95             A
